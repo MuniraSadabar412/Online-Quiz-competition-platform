@@ -1,0 +1,4 @@
+# Ignore local shims and temporary scratch files
+powershell.cmd
+*.log
+scratch/
